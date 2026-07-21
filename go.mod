@@ -1,4 +1,4 @@
-module github.com/dexterlb/mpvipc
+module github.com/sentriz/mpvipc
 
 go 1.23.2
 
